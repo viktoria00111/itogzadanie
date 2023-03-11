@@ -1,0 +1,12 @@
+int a=6;
+int b=5;
+int result =  a + b;
+Console.WriteLine(result);
+ 
+6
+проверка 1 ветки
+
+
+проверка 2
+
+итог
