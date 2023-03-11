@@ -4,3 +4,4 @@ int result =  a + b;
 Console.WriteLine(result);
  
 6
+проверка 1 ветки
